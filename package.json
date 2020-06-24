@@ -1,0 +1,32 @@
+{
+  "name": "node.js-course-by-ignacio-c.",
+  "version": "1.0.0",
+  "description": "This is a Node.js Complete Course through Proyects/Repositories than are Practic and Graphic Examples itself. I did them while studying Node.js in this YT Course:_ https://www.youtube.com/watch?v=BhvLIzVL8_o&list=PL0FXkz5ILg9ZywY_IRCfSj67rOhR_NXnb&index=2&t=213s",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nachoxt17/Node.js-Complete-Course-with-Graphic-and-Practic-Examples.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "javascript",
+    "js",
+    "back-end",
+    "web"
+  ],
+  "author": "Ignacio Ceaglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nachoxt17/Node.js-Complete-Course-with-Graphic-and-Practic-Examples/issues"
+  },
+  "homepage": "https://github.com/Nachoxt17/Node.js-Complete-Course-with-Graphic-and-Practic-Examples#readme"
+}
