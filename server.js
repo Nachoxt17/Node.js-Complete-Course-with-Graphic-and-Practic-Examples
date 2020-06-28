@@ -1,7 +1,7 @@
 /**+-(11)-Para Poder Crear y Trabajar Servidores que usan el Protocolo HTTP(https://developer.mozilla.org/es/docs/Web/HTTP/Overview) vamos a Importar el Módulo "Prefabricado" HTTP('http'):_.*/
 const http = require('http');
 
-/**+-(13)-Instalación de un Módulo Externo de la Comunidad de Node.js(Ir más abajo para seguir viendo pa Parte 13).*/
+/**+-(13)-Instalación de un Módulo Externo de la Comunidad de Node.js(Ir más abajo para seguir viendo la Parte 13).*/
 const colors = require('colors');
 
 /**+-(12)-Ahora vamos a crear un Servidor con el Método "http.createServer((req, res) => {***});":_.*/
